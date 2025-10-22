@@ -104,7 +104,7 @@ export function Contact() {
                 <Button 
                   variant="outline" 
                   className="mt-2 w-full sm:w-auto text-sm sm:text-base"
-                  onClick={() => window.location.href = 'mailto:dhulatechnologies@gmail.com?subject=Consultation%20Request&body=Hello%206%20Technologies%2C%0D%0A%0D%0AI%20would%20like%20to%20book%20a%20consultation%20regarding%20your%20blockchain%20services.%0D%0A%0D%0AThank%20you.'}
+                  onClick={() => window.location.href = 'mailto:dhulatechnologies@gmail.com?subject=Consultation%20Request&body=Hello%20Dhula%20Technologies%2C%0D%0A%0D%0AI%20would%20like%20to%20book%20a%20consultation%20regarding%20your%20blockchain%20services.%0D%0A%0D%0AThank%20you.'}
                 >
                   Book Consultation
                 </Button>
